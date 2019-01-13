@@ -1,0 +1,18 @@
+#IGNORE FILES
+
+
+.vs
+
+Library
+
+Logs
+
+obj
+
+Packages
+
+ProjectSettings
+
+Assembly-CSharp.csproj
+
+Unity Basic 1.sln
